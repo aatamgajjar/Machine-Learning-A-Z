@@ -5,7 +5,7 @@ By numbers: Total Lectures = 320 | Total duration = 44.5 hours
 
 This course has been designed by two professional Data Scientists to share their knowledge and help one learn complex theory, algorithms, and coding libraries in a simple way.
 
-This is a step-by-step into the World of Machine Learning. With every tutorial, one will be able to develop new skills and improve their understanding of this challenging yet lucrative sub-field of Data Science.
+This is a step-by-step into the World of Machine Learning. 
 
 This course is fun and exciting, but at the same time, we dive deep into Machine Learning. It is structured the following way:
 
@@ -25,5 +25,5 @@ This course is fun and exciting, but at the same time, we dive deep into Machine
 | 10.     | Model Selection & Boosting           | k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost           |
 
 
-Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will one learn the theory, but you will also get some hands-on practice building your own models.
+Moreover, the course is packed with practical exercises that are based on real-life examples. So not only did I learn the theory, but I also got some hands-on practice building my own models.
 
