@@ -1,6 +1,8 @@
 # Repository for the course [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 ## Created by [Kirill Eremenko](https://www.udemy.com/user/kirilleremenko/) and [Hadelin de Ponteves](https://www.udemy.com/user/hadelin-de-ponteves/)
 
+By numbers: Total Lectures = 320 | Total duration = 44.5 hours
+
 This course has been designed by two professional Data Scientists to share their knowledge and help one learn complex theory, algorithms, and coding libraries in a simple way.
 
 This is a step-by-step into the World of Machine Learning. With every tutorial, one will be able to develop new skills and improve their understanding of this challenging yet lucrative sub-field of Data Science.
